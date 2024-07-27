@@ -80,4 +80,4 @@ This project utilizes a robust data warehousing model incorporating:
 - Roberto Eyama
 
 ## Acknowledgments
-Special thanks to Professor Gustavo Tadeu Cicotoste for his guidance and expertise throughout the development of this project.
+Special thanks to Professor Gustavo Tadeu Cicotoste and Escola Politecnica da Universidade de São Paulo for their guidance and expertise throughout the development of this project.

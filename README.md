@@ -6,6 +6,8 @@ This project, crafted by Grupo 1 for the Data Warehouse Architecture course unde
 ```
 supremeats-finalproject/
 │
+├── ML/                      # Python Script for making future sales prediction              
+│
 ├── data/                    # Data files including raw and processed CSVs
 │   ├── DW/
 │   ├── factTables/
@@ -13,14 +15,13 @@ supremeats-finalproject/
 │
 ├── doc/                     # Documentation and assets
 │   └── assets/
-│
-├── diagram/                 # EER diagrams and project visualizations
+│   └── dashboard/
+│   └── diagram/
 │
 ├── scripts/                 # SQL and Python scripts for data processing
 │
 ├── sql/                     # SQL scripts for DW database schema creation
 │
-└── dashboard/               # Dashboard application files
 ```
 
 ## Setup and Installation
